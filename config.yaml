@@ -1,4 +1,4 @@
-baseURL: https://makt96.github.io/personal-portfolio/
+baseURL: https://makt96.github.io
 languageCode: en-us
 title: MD ABDUL KADIR
 theme: "toha"
@@ -26,7 +26,7 @@ enableEmoji: true
 # Site parameters
 params:
   # GitHub repo URL of your site
-  gitRepo: https://github.com/makt96/personal-portfolio
+  gitRepo: https://github.com/makt96/makt96.github.io
 
   # specify whether you want to write some blog posts or not
   enableBlogPost: true
