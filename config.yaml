@@ -25,8 +25,8 @@ enableEmoji: true
 
 # Site parameters
 params:
-  # add dynamic background image at home 
-  background: "/assets/images/background1.jpg"
+  #  background image at home 
+  background: "images/site/background1.jpg"
   # GitHub repo URL of your site
   gitRepo: https://github.com/makt96/makt96.github.io
 
