@@ -43,7 +43,7 @@ params:
        enabled: true
        # Google Analytics
        google:
-         id: G-QZ4Y12QYXS
+          id: G-QZ4Y12QYXS
       # # CounterDev
       # counterDev:
       #   id: <your counterdev id>
