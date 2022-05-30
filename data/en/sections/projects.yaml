@@ -27,7 +27,7 @@ projects:
   logo: /images/sections/projects/ds.png
   role: Contributor
   timeline: "March 2022"
-  repo: "files/house-in-mexico.pdf" # If your project is a public repo on GitHub, then provide this link. it will show star count.
+  repo: "https://github.com/makt96/Housing-in-Mexico" # If your project is a public repo on GitHub, then provide this link. it will show star count.
   #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
   summary: In this project, I did work with a datasets with 21,000 properties for sale in Mexico through the real estate website Properati.com. My goal is to determine whether sale prices are influenced more by property size or location..
   tags: ["datascience", "python"]
@@ -56,7 +56,7 @@ projects:
   logo: /images/sections/projects/ml.png
   role: Contributor
   timeline: "April 2022"
-  repo: "files/house-in-bunosaires.pdf"
+  repo: "https://github.com/makt96/Real-State-in-Buenos-Aires"
   summary: In this project, I have emphasized on predictive data science. My focus is also real estate. I have walked through a procedural process of this project.
   tags: ["Linear-Regression","real-state","python","machinelearning"]  
 
@@ -64,7 +64,9 @@ projects:
   logo: /images/sections/projects/tsa.png
   role: Contributor
   timeline: "April 2022 - May 2022"
-  repo: "files/nairobi-air-quality.pdf"
+  repo: "https://github.com/makt96/Air-Quality-Nairobi"
+  #repo: "files/nairobi-air-quality.pdf"
+  #url : "files/nairobi-air-quality.pdf"
   summary: In this project, I work with data from one of Africa's largest open data platforms openAfrica https://africaopendata.org/ .I'll look at air quality data from Nairobi, Lagos, and Dar es Salaam; and build a time seriesmodel to predict PM 2.5 readings throughout the day.
   tags: ["ARIMA","AutoRegression","MongoDB","python","machinelearning","datascience","Time-Seriese-Analysis"]  
 
