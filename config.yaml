@@ -48,8 +48,8 @@ params:
       # counterDev:
       #   id: <your counterdev id>
       # # GoatCounter
-        # goatCounter:
-        #    code: <your goat counter cod
+      goatCounter:
+        code: 55mygoat5
 
   # Provide newsletter configuration. This feature hasn't been implemented yet.
   # Currently, you can just hide it from the footer.
