@@ -13,21 +13,18 @@ section:
 skills:
 - name: Machine Learning
   logo: "images/sections/skills/ml.png"
-  summary: "Machine learning is the foundation of countless important applications, including web
-search, email anti-spam, speech recognition, product recommendations, and more. I assume
-that you or your team is working on a machine learning application, and that you want to
-make rapid progress."
+  summary: "I have experience on dealing both linear and classification model of ML. Decision Tree, Rigression(Linear, Ridge, Logistic), Random Forest, Gradient Boosting etc, I use in my daily life in Machine Learning Workflaw."
   url: "https://machinelearning.org.in/"
 
-- name: Artificial Intelligence
-  logo: "images/sections/skills/ai.png"
-  summary: "Python DS libraries is my daily food. I love to work with data. Following Packages/Libraries are my daily use: Panda,NumPy,ScikitLearn,Mathplotlib,PlotlyExpress, Seaborn, StatsModel, etc."
-  url: "https://hub.packtpub.com/python-data-stack/"
+# - name: Artificial Intelligence
+#   logo: "images/sections/skills/ai.png"
+#   summary: "Python DS libraries is my daily food. I love to work with data. Following Packages/Libraries are my daily use: Panda,NumPy,ScikitLearn,Mathplotlib,PlotlyExpress, Seaborn, StatsModel, etc."
+#   url: "https://hub.packtpub.com/python-data-stack/"
 
-- name: Deep Learning
-  logo: "images/sections/skills/dl.png"
-  summary: "Python DS libraries is my daily food. I love to work with data. Following Packages/Libraries are my daily use: Panda,NumPy,ScikitLearn,Mathplotlib,PlotlyExpress, Seaborn, StatsModel, etc."
-  url: "https://hub.packtpub.com/python-data-stack/"
+# - name: Deep Learning
+#   logo: "images/sections/skills/dl.png"
+#   summary: "Python DS libraries is my daily food. I love to work with data. Following Packages/Libraries are my daily use: Panda,NumPy,ScikitLearn,Mathplotlib,PlotlyExpress, Seaborn, StatsModel, etc."
+#   url: "https://hub.packtpub.com/python-data-stack/"
 
 - name: Python Data Science Stack
   logo: "images/sections/skills/python.png"
@@ -37,7 +34,7 @@ make rapid progress."
 
 - name: Data Visualization
   logo: "images/sections/skills/tableau.png"
-  summary: "Worked with most of the major clouds such as GCP, AWS, Azure etc."
+  summary: "In Data Visualization context, I used to make visulization with Tableau Desktop Professional, The necessary skills needed as Tableau Desk Certified Assiciate, I have, My Projects under Data Visualization will reflect my skills set."
   url: "https://www.tableau.com/"
 
 - name: Statistics

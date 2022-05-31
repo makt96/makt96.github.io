@@ -38,7 +38,7 @@ params:
 
   features:
 
-        # Enable Analytics
+    # Enable Analytics
     analytics:
        enabled: true
        # Google Analytics
