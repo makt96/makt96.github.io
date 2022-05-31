@@ -75,6 +75,6 @@ projects:
   logo: /images/sections/projects/tsa.png
   role: Contributor
   timeline: "May 2022 -Present"
-  #repo: "files/nairobi-air-quality.pdf"
+  repo: "https://github.com/makt96/Earthquake-Damage-Nepal"
   summary: In this project, I'll work with data from Open Data Nepal to build a model to predict building damage from the Nepal 2015 Earthquake. I'll also work primarily with data from the Gorkha district, with additional examples from Ramechhap.
-  tags: ["Decision Tree","LogisticRegression","SQL","python","machinelearning","datascience","Time-Seriese-Analysis"]   
+  tags: ["Decision Tree","LogisticRegression","SQL","python","machinelearning","datascience","Sqlite"]   
