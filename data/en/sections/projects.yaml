@@ -15,7 +15,9 @@ buttons:
 - name: Machine Learning
   filter: "machinelearning"
 - name: Data Science
-  filter: "datascience"  
+  filter: "datascience" 
+- name: Data Visualization
+  filter: "datavisual" 
 - name: Academic
   filter: "academic"
 - name: Hobby
