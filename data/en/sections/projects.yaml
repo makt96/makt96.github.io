@@ -74,7 +74,7 @@ projects:
 
 
 - name: Earthquake Damage in Nepal
-  logo: /images/sections/projects/ds_tree.png
+  logo: /images/sections/projects/d_tree.png
   role: Contributor
   timeline: "May 2022 - June 2022"
   repo: "https://github.com/makt96/Earthquake-Damage-Nepal"
