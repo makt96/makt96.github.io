@@ -74,9 +74,18 @@ projects:
 
 
 - name: Earthquake Damage in Nepal
-  logo: /images/sections/projects/tsa.png
+  logo: /images/sections/projects/ds_tree.png
   role: Contributor
-  timeline: "May 2022 -Present"
+  timeline: "May 2022 - June 2022"
   repo: "https://github.com/makt96/Earthquake-Damage-Nepal"
   summary: In this project, I'll work with data from Open Data Nepal to build a model to predict building damage from the Nepal 2015 Earthquake. I'll also work primarily with data from the Gorkha district, with additional examples from Ramechhap.
   tags: ["Decision Tree","LogisticRegression","SQL","python","machinelearning","datascience","Sqlite"]   
+
+
+- name: Bankruptcy in Poland
+  logo: /images/sections/projects/cluster.png
+  role: Contributor
+  timeline: "June 2022 -Present"
+  repo: "https://github.com/makt96/Bankruptcy-in-Poland"
+  summary: In this project, we'll explore data collected by a team of Polish economists studying bankruptcy. My goal is to build a model that can predict whether a company will go bankrupt or not.
+  tags: ["Random Forest","Gradient-Boosting","JSON","python","machinelearning","datascience","Linux"]
