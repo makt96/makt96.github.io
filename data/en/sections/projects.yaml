@@ -50,7 +50,7 @@ projects:
   logo: /images/sections/projects/hugo-logo.svg
   role: Owner
   timeline: "May 2022 - Present"
-  repo: mkadir.github.io
+  repo: https://makt96.github.io/
   summary: A Hugo theme for personal portfolio.
   tags: ["hobby","hugo","theme","portfolio"]
 
