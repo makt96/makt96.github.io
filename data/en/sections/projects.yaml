@@ -87,5 +87,5 @@ projects:
   role: Contributor
   timeline: "June 2022 -Present"
   repo: "https://github.com/makt96/Bankruptcy-in-Poland"
-  summary: In this project, we'll explore data collected by a team of Polish economists studying bankruptcy. My goal is to build a model that can predict whether a company will go bankrupt or not.
+  summary: In this project, we'll explore data collected by a team of Polish economists studying bankruptcy.I'll work with financial data from the Emerging Markets Information Service. My goal is to build a model that can predict whether a company will go bankrupt or not.
   tags: ["Random Forest","Gradient-Boosting","JSON","python","machinelearning","datascience","Linux"]
