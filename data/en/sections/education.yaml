@@ -27,6 +27,57 @@ degrees:
 #     url: "#"
 #   - title: Nullam vitae orci tincidunt purus viverra pulvinar.
 #     url: "#"
+
+# City College
+
+- name: Masters of Science in Cybersecurity
+  icon: fa-graduation-cap
+  timeframe: 2022-2024
+  institution:
+    name: The City College of New York (Grove School of Engineering)
+    url: "https://www.ccny.cuny.edu/"
+  grade: #(optional)
+    scale: GPA
+    achieved: In Progress
+    # outOf: 4
+  takenCourses: #(optional)
+    # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
+    showGrades: true
+    collapseAfter: 3
+    courses:
+    - name: Communication Network
+      achieved: 2.75
+      outOf: 3
+    - name: Network Security
+      achieved: current
+      outOf: 4
+    - name: Operating System Security
+      achieved: current
+      outOf: 4
+   
+    
+  publications: #(optional)
+  - title: Cybersecurity Regulations (Healthcare)-Law and Policy Issues in Cybersecurity.
+    url: "files/healthcare.pdf"
+  - title: Incident Response, Incident Notification, and the Law-Law and Policy Issues in Cybersecurity.
+    url: "files/incident.pdf"
+  - title: Privacy, Security and Surveillance -Law and Policy Issues in Cybersecurity.
+    url: "files/privacy.pdf"
+  
+  - title: International Privacy- General Data Protection Regulation(GDPR)-Law and Policy Issues in Cybersecurity.
+    url: "files/gdpr.pdf"
+  - title: 7-Node Network Design Project -Computer Communication Network.
+    url: "files/f6000.pdf"
+  # - title: Fusce eu augue ut odio porttitor pulvinar.
+  #   url: "#"
+  #extracurricularActivities: #(optional)
+  #- Member of MU Sports Club.
+ # - Member of ACM Programming Lab.
+  # - Duis sed massa feugiat, ornare justo et, aliquam est.
+  # - Pellentesque ut fringilla magna.
+
+
+# Metropolitan University
 - name: B.Sc. in Computer Science & Engineering
   icon: fa-graduation-cap
   timeframe: 2017-2021

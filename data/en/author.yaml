@@ -1,20 +1,21 @@
 # some information about you
 name: "MD ABDUL KADIR"
-nickname: "MD ABDUL KADIR"
+nickname: "M. KADIR"
 # greeting message before your name. it will default to "Hi! I am" if not provided
-greeting: "Hi, I am"
+greeting: "Greetings! This is"
 image: "images/author/tayef2.png"
 # give your some contact information. they will be used in the footer
 contactInfo:
-  email: "makt.official@gmail.com"
-  phone: "+880-1852823903"
+  #email: "makt.official@gmail.com (Personal)"
+  email: "mkadir001@citymail.cuny.edu"
+  phone: "+1 347-888-56**"
   github: makt96
   linkedin: makt
 
 # some summary about what you do
 summary:
   - I am a CSE Graduate
-  - My Research Intentions are Data Science and Machine Learning 
-  - I love Building ML Model 
+  - My Research Intentions Network Security and Penetration Testing
+  - Working on Cybersecurity
   - I work on both licensed and open-source projects
   - You are welcome to see my recent projects in the project section

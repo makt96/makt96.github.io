@@ -8,17 +8,17 @@ section:
   template: sections/about.html
 
 # your designation
-designation: Data Science Researcher and CSE Graduate
+designation: BS in Computer Science and MS in Cybersecurity
 # your company information
 company:
-  name: Metropolitan University,Bangladesh
-  url: "https://www.metrouni.edu.bd"
+  name: The City College of New York
+  url: "https://www.ccny.cuny.edu/"
 
 # your resume. this file path should be relative to you "static" directory
-resume: "files/resume.pdf"
+resume: "https://docs.google.com/document/d/e/2PACX-1vRU7Qqjjf900Q22ZxhuLLHA-isZFSeCCUGifRJ33qutfulTVRaWGiUUuuq4xjSeLqdJrJhuGves_XZ3/pub"
 
 # a summary about you
-summary: 'I am a passinate Data Science Researcher,I love to work with data, I have a good concept of building Machine Learning Model, I aim to work on Ml and AI solution for Business Intelligence based on Big Data, Currently, I am contributing some projects of WorldQuant University under Applied Data Science Lab.'
+summary: 'I am studying CCNY-Graduate School, My Major is Information System Security, .'
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
