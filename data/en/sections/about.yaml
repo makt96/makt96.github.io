@@ -8,7 +8,7 @@ section:
   template: sections/about.html
 
 # your designation
-designation: BS in Computer Science and MS in Cybersecurity
+designation: Graduate Student at CCNY
 # your company information
 company:
   name: The City College of New York
@@ -18,7 +18,7 @@ company:
 resume: "https://docs.google.com/document/d/e/2PACX-1vRU7Qqjjf900Q22ZxhuLLHA-isZFSeCCUGifRJ33qutfulTVRaWGiUUuuq4xjSeLqdJrJhuGves_XZ3/pub"
 
 # a summary about you
-summary: 'I am studying CCNY-Graduate School, My Major is Information System Security, .'
+summary: 'I am studying CCNY-Graduate School, My Major is Information System Security. I have work experience Data Science and Builing ML Models. My current research interests are Netwwork Security:Intrusion Setection System, Cloud and Web Security, IOT Securing Environment and Penetration Testing. I am contributing some Cybersecurity projects recently for academic terms, there are all will be published soon.'
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
