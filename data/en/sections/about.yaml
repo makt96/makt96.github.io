@@ -33,7 +33,7 @@ socialLinks:
   icon: "fab fa-stack-overflow"
   url: "https://stackoverflow.com/users/13824261/md-abdul-kadir?tab=profile"
 - #name: Kaggle
- # icon: "fab fa-kaggle"
+  #icon: "fab fa-kaggle"
   #url: "https://www.kaggle.com/maktkagle"
 - name: Twitter
   icon: "fab fa-twitter"
