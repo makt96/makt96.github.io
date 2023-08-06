@@ -38,11 +38,11 @@ degrees:
     url: "https://www.ccny.cuny.edu/"
   grade: #(optional)
     scale: GPA
-    achieved: In Progress
-    # outOf: 4
+    achieved: 3.90 (Spring-2023)
+    outOf: 4
   takenCourses: #(optional)
     # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
-    showGrades: true
+    showGrades: false
     collapseAfter: 3
     courses:
     - name: Communication Network
@@ -54,6 +54,12 @@ degrees:
     - name: Operating System Security
       achieved: current
       outOf: 4
+    - name: Law and Policy Issues in Cybersecurity
+      achieved: current
+      outOf: 4
+    - name: Web Security  
+    - name: Secure Cloud Computing
+    - name: Secure Internet of Things Design(IOT) Lab
    
     
   publications: #(optional)
@@ -147,6 +153,7 @@ degrees:
   extracurricularActivities: #(optional)
   - Member of MU Sports Club.
   - Member of ACM Programming Lab.
+  - Member of CSE Society.
   # - Duis sed massa feugiat, ornare justo et, aliquam est.
   # - Pellentesque ut fringilla magna.
 - name: Higher Secondary School Certificate(HSC-Science)
