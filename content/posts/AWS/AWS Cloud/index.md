@@ -1,13 +1,14 @@
 ---
 title: "AWS Cloud Basic"
 date: 2017-03-03T14:15:59-06:00
+draft: false
 description: Basic Example of Server and Client Model in AWS Architecture. 
 menu:
   sidebar:
     name: Client Vs Server Model 
     identifier: client-server
     parent: aws-cloud
-    weight: 5s
+    weight: 5
 tags: ["Basic", "Multi-lingual"]
 categories: ["Basic"]
 ---
