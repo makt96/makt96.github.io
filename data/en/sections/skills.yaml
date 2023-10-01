@@ -24,7 +24,7 @@ skills:
   url: "https://developer.mozilla.org/en-US/docs/Web/Security"
 
 - name: Cybersecurity Management and Frameworks
-  logo: "<a href="https://www.freepik.com/icons/cyber-law">Icon by Nhor Phai</a>"
+  logo: "images/sections/skills/policy.png"
   summary: "GDPR, HIPAA,CISA, CIA Triad, NIST CSF, NIST RMF. Security and Information  Event Management (SIEM)"
   url: "https://developer.mozilla.org/en-US/docs/Web/Security"
 
