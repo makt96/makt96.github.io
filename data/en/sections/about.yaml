@@ -15,7 +15,7 @@ company:
   url: "https://www.ccny.cuny.edu/"
 
 # your resume. this file path should be relative to you "static" directory
-resume: "https://docs.google.com/document/d/e/2PACX-1vRU7Qqjjf900Q22ZxhuLLHA-isZFSeCCUGifRJ33qutfulTVRaWGiUUuuq4xjSeLqdJrJhuGves_XZ3/pub"
+resume: "https://docs.google.com/document/d/e/2PACX-1vSpqmoSw5QcdnKm2L4kA_glFk1fOF-Xo2VFS3bZTHhLaE5Wm9GeZBT42qafz5p2myvxFLv12WbjdxuI/pub"
 
 # a summary about you
 summary: 'I am studying CCNY-Grove School of Engineering, My Major is Information System Security. I have work on experience Data Science and Builing ML Models. My current research interests are Network Security, Cloud and Web Security, IOT Securing Environment and Penetration Testing. I am contributing some Cybersecurity projects recently for academic terms, they are all will be published soon.'
