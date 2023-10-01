@@ -41,7 +41,7 @@ projects:
   logo: /images/sections/projects/game_hack.png
   role: Contributor, Researcher
   timeline: "April 2023 - May 2023"
-  repo: "https://github.com/makt96/"
+  repo: "https://docs.google.com/document/d/e/2PACX-1vSJlmlHwzXuqFr3jRvDpWzOcUvFKC_kmdsnlDoy16WDFkGX5w-_O_Z9L8EUhp7KjHvYxCr9I2w7EsJl/pub"
   summary: In this project we did use reverse engineering to analyze software binaries for the purpose of demonstrating how the software cracking is done to change values or behavior of a software and for the purpose of finding vulnerabilities in important binaries.
   tags: ["Reverse Engineering","Network Security","Decompilation","cyber","Cybersecurity",]
 
@@ -50,7 +50,7 @@ projects:
   logo: /images/sections/projects/ransomware.png
   role: Contributor, Researcher
   timeline: "September 2023"
-  repo: "https://github.com/makt96/"
+  repo: "https://docs.google.com/document/d/e/2PACX-1vRkkHctUpTwfNhLfooNDOjilV27gQNa5_AD9N9wbNqJcu3qRV4KY1F1aP3mTzTM7Q/pub"
   summary: In this project, My idea is all about Ransomware Attack(Ethical Hacking), I have built a malicious code (ransomware) and did try to make this program works just in the destination where it is put(In my work space),in addition, I will hide this program in exe and SFX file to make this last undetectable and not suspicious for the target.
   tags: ["Ransomware Attack","Operating System Security","JAVA","cyber","Cybersecurity","Cryptography"]
 

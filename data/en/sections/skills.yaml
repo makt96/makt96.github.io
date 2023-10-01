@@ -11,6 +11,30 @@ section:
 # Your Skills.
 # Give a summary of you each skill in the summary section.
 skills:
+
+
+- name: Network Security
+  logo: "images/sections/skills/network.png"
+  summary: "Cryptography,Firewall,IPSec,DNS Security, Network Attacks,IDS, MAC Layer and WIFI Security,Smart Grid Security."
+  url: "https://docs.google.com/document/d/e/2PACX-1vSFcXLiX7A7DvUZI4IxNNas761IJVRXqv1LFpsdihP8l2GVrmmFOChDLpunZDRoNA/pub"
+
+- name: Operating System Security
+  logo: "images/sections/skills/OS.png"
+  summary: "OS Architecture,Audit/Authentication/Authorization,Hardware/Software Fault, Kernel Isolation and Boundaries, Integrity Verification Technique,Mobile Security, Secure API, OS-BIOS-Kernel vulnerability,."
+  url: "https://developer.mozilla.org/en-US/docs/Web/Security"
+
+- name: Cybersecurity Management and Frameworks
+  logo: "<a href="https://www.freepik.com/icons/cyber-law">Icon by Nhor Phai</a>"
+  summary: "GDPR, HIPAA,CISA, CIA Triad, NIST CSF, NIST RMF. Security and Information  Event Management (SIEM)"
+  url: "https://developer.mozilla.org/en-US/docs/Web/Security"
+
+
+
+
+
+
+
+
 - name: Machine Learning
   logo: "images/sections/skills/ml.png"
   summary: "I have experience on dealing both linear and classification model of ML. Decision Tree, Rigression(Linear, Ridge, Logistic), Random Forest, Gradient Boosting etc, I use in my daily life in Machine Learning Workflaw."
