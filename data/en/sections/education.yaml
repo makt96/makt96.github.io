@@ -63,15 +63,9 @@ degrees:
    
     
   publications: #(optional)
-  - title: Cybersecurity Regulations (Healthcare)-Law and Policy Issues in Cybersecurity.
-    url: "files/healthcare.pdf"
-  - title: Incident Response, Incident Notification, and the Law-Law and Policy Issues in Cybersecurity.
-    url: "files/incident.pdf"
-  - title: Privacy, Security and Surveillance -Law and Policy Issues in Cybersecurity.
-    url: "files/privacy.pdf"
-  
-  - title: International Privacy- General Data Protection Regulation(GDPR)-Law and Policy Issues in Cybersecurity.
-    url: "files/gdpr.pdf"
+ 
+  - title: Mobile platform hacking Using Reverse Rngineering Process- Network Security.
+    url: "https://docs.google.com/document/d/e/2PACX-1vSJlmlHwzXuqFr3jRvDpWzOcUvFKC_kmdsnlDoy16WDFkGX5w-_O_Z9L8EUhp7KjHvYxCr9I2w7EsJl/pub"
   - title: 7-Node Network Design Project -Computer Communication Network.
     url: "files/f6000.pdf"
   # - title: Fusce eu augue ut odio porttitor pulvinar.
