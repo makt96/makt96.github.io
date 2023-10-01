@@ -12,12 +12,12 @@ section:
 buttons:
 - name: All
   filter: "all"
+- name: Cybersecurity
+  filter: "cyber" 
 - name: Machine Learning
   filter: "machinelearning"
 - name: Data Science
   filter: "datascience" 
-- name: Data Visualization
-  filter: "datavisual" 
 - name: Academic
   filter: "academic"
 - name: Hobby
@@ -89,3 +89,43 @@ projects:
   repo: "https://github.com/makt96/Bankruptcy-in-Poland"
   summary: In this project, we'll explore data collected by a team of Polish economists studying bankruptcy.I'll work with financial data from the Emerging Markets Information Service. My goal is to build a model that can predict whether a company will go bankrupt or not.
   tags: ["Random Forest","Gradient-Boosting","JSON","python","machinelearning","datascience","Linux"]
+
+
+
+
+- name:  Endpoint Monitoring Using Wazuh- Host Intrusion Detection Systems
+  logo: /images/sections/projects/ids.png
+  role: Contributor, Researcher.
+  timeline: "September 2023 - Present"
+  repo: "https://github.com/makt96/"
+  summary: Host Intrusion Detection Systems (HIDSs) are very important in protecting systems from potential attacks by actively monitoring for possible threats. This project is all about endpoint monitoring, or in other words - ways to monitor computers and other devices on a network to detect nefarious events, potential vulnerabilities, or even intrusions into our network! This means we are going to check out Windows and Linux event logs and how they can be used to track potential threats and problems. During our lab, we get some experience using a Host Intrusion Detection system and would be tasked with trying to find the malicious actor who is attempting to break into a Windows machine! Our project is involve figuring out what configuration file was tampered with on the server!.
+  tags: [ "Host Intrusion Detection System", "Security Audits", "Incident Data Analysis" ,"Wazuh Cloud" ,"Security Logs Monitoring", "Reverse Engineering","Network Security","cyber","Cybersecurity",]
+
+
+
+
+- name:  Mobile Platform Hacking(Ethical) A Network Security Project
+  logo: /images/sections/projects/game_hack.png
+  role: Contributor, Researcher
+  timeline: "April 2023 - May 2023"
+  repo: "https://github.com/makt96/"
+  summary: In this project we did use reverse engineering to analyze software binaries for the purpose of demonstrating how the software cracking is done to change values or behavior of a software and for the purpose of finding vulnerabilities in important binaries.
+  tags: ["Reverse Engineering","Network Security","Decompilation","cyber","Cybersecurity",]
+
+
+ - name: Build and Design Professional Ransomware (Ethical Hacking) Tested in Destination Workspace, An OS Security Project
+  logo: /images/sections/projects/ransomware.png
+  role: Contributor, Researcher
+  timeline: "September 2023"
+  repo: "https://github.com/makt96/"
+  summary: In this project, My idea is all about Ransomware Attack(Ethical Hacking), I have built a malicious code (ransomware) and did try to make this program works just in the destination where it is put(In my work space),in addition, I will hide this program in exe and SFX file to make this last undetectable and not suspicious for the target.
+  tags: ["Ransomware Attack","Operating System Security","JAVA","cyber","Cybersecurity","Cryptography"]
+
+
+- name: Business Email Compromise(BEC)- Detection Technique
+  logo: /images/sections/projects/BIC.png
+  role: Contributor, Researcher
+  timeline: "September 2023"
+  repo: "https://github.com/makt96/"
+  summary: We've handled our own BEC situation, where a malicious actor has sent phishing emails to many of our employees, trying to trick them into sending hundreds of thousands of dollars. To stop this, we went to look at some potentially malicious emails and inspecting .pcap files to determine which emails are legitimate and which ones are fraudulent..
+  tags: [  "Incident Analysis", "Incident Detection", "SMTP Packet Analysis", "Social Engineering","Ransomware Attack","cyber","Cybersecurity"]
