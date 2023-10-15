@@ -55,14 +55,14 @@ experiences:
     start: January 2020(Part-time)
     end: December 2021
     responsibilities:
-    - Remittance Service Officer.
-    - Overlooking networking issues and contact wit the IT Team at Head Office.
+    - Remittance Service Officer:-  I have contributed some administrative tasks such as sales, consultation with customers about their financial matters , and performing general banking tasks.
+    - Technical Support:- Overlooking networking issues and outage, checking false authentication in the process of verifying the customer data and contacting the IT Team at Head Office for the system failure in case of customer remittance disbursement.
 
 - company:
     name: Lycus Tech.
     url: #"https://www.lycustechnology.com"
     location: Remote
-    overview: Software Company,Services & Maintanance.
+    overview: Software Company,Services & Maintanance.Lycus Tech is a software development firm mainly focused on building and designing enterprise softwares for small to medium size local businesses and providing services for eCommerce software maintenance and development.
   positions:
   - designation: Software Engineer
     start: March 2020
@@ -70,6 +70,7 @@ experiences:
     responsibilities:
     - Lead Supervisor of Project Management.
     - Team Member of MERN-Stack Software Development.    
+    -  I have contributed to building websites using MERN technologies, testing software vulnerabilities, analyzing code, making necessary changes in existing softwares, upgrading software patches, designing front end interfaces, dealing with backend performances and faster server rendering.
 
 - company:
     name: Bangladesh Red Crescent Society (BDRCS) | Red Crescent Youth, Sylhet Unit.

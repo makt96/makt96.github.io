@@ -13,6 +13,11 @@ section:
 skills:
 
 
+
+- name: Web Security
+  logo: "images/sections/skills/web.png"
+  summary: "Shell Scripting, IDS/IPS Setup, Network Traffic Analysis, Security Log Analysis, HIDSs Setup & Wazuh Cloud Logs Analysis, DDoS Attack, Directory Traversal Attack, Proxy Server, SIEM Security Monitoring,APTs, IoSs, Incident Response."
+  url: "https://docs.google.com/document/d/e/2PACX-1vSFcXLiX7A7DvUZI4IxNNas761IJVRXqv1LFpsdihP8l2GVrmmFOChDLpunZDRoNA/pub"
 - name: Network Security
   logo: "images/sections/skills/network.png"
   summary: "Cryptography,Firewall,IPSec,DNS Security, Network Attacks,IDS, MAC Layer and WIFI Security,Smart Grid Security."
